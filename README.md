@@ -54,6 +54,6 @@ Want to contribute? Please don't.
  - Cry.
 
 License
-----
+-------
 
 Sorry officer, I must have left mine at the bar.
