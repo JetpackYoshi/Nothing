@@ -1,3 +1,5 @@
 .idea
 docs/build
 Nothing/__pycache__
+__pycache__
+logs

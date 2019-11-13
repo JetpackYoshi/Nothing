@@ -5,6 +5,11 @@ nothing.py
 Honestly. This is truly nothing.
 """
 
+import logging
+
+logger = logging.getLogger(__name__)
+special = logging.getLogger('special')
+
 class Nothing:
     """
     Does nothing
@@ -20,8 +25,5 @@ class Nothing:
     def nothing(self):
         pass
 
-def main():
-    Nothing()
-
 if __name__ == '__main__':
-    main()
+    nothing = Nothing()
