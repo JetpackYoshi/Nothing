@@ -6,8 +6,8 @@ setup(
     packages=['Nothing'],
     url='https://github.com/JetpackYoshi/Nothing',
     license='',
-    author='Yoshin Govender',
-    author_email='yoshin.govender@gmail.com',
+    author='Yoshika Govender',
+    author_email='yoshi.govender@gmail.com',
     description='Nothing.',
     install_requires=[
         'sphinx',

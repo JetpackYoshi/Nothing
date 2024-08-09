@@ -19,8 +19,8 @@ sys.setrecursionlimit(1500)
 # -- Project information -----------------------------------------------------
 
 project = 'Nothing'
-copyright = '2019, Yoshin Govender'
-author = 'Yoshin Govender'
+copyright = '2019, Yoshika Govender'
+author = 'Yoshika Govender'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
